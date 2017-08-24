@@ -1,0 +1,1 @@
+# DVB-Realtek-RTL2832U-2.2.2-10turner-mod-Kernel-3.0.0
